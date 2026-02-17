@@ -27,7 +27,7 @@ export interface USR_info {
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const local_backend = "http://localhost:3001";
 
-const remote_backend = "https://susbacktest-copy-production.up.railway.app";
+const remote_backend = "https://susbacktest-copy-staging.up.railway.app";
 
 const backendURL = remote_backend;
 
